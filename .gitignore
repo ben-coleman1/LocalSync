@@ -1,0 +1,9 @@
+*.o
+.dSYM
+.DS_STORE
+data
+core
+vgcore*
+._*
+*.a
+
